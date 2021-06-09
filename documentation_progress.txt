@@ -1,0 +1,16 @@
+During the programming I found and fixed these annoying bugs:
+{Great Ammo Bug: bullets flying to same side where player moving,
+Portal Randomize Bug: portal teleport player and player could get out the borders of playing field.
+
+
+
+Alpha:
+
+Alpha 0.1.0 - realised moving of the player, shooting with Great Ammo Bug and sprites of portal.
+Alpha 0.2.0 - Great Ammo Bug was fixed, borders appeared. Else main problem became Portal Randomize Bug.
+Alpha 0.3.1 - Borders stabilized, meet the Portal Randomize Bug impossible now. Added score and version font, borders changed.
+Alpha 0.3.2 - Menu, sounds and music added. Changed window size.
+Alpha 0.3.3 - Sprites of characters appeared. New Bonus - 'future key' added.
+Pre-alpha 0.4.0 - New Sprite of spaceship with animation of moving in different direction! Splash screen added! Also
+background was decorated with space sky! Two new bonuses!
+Alpha 0.4.0 - Pause made. Minor bugs fixed.
